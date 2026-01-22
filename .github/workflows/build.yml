@@ -1,8 +1,9 @@
 name: Build RPi TG Bot
 
 on:
+  workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ "master" ]
 
 jobs:
   build:
