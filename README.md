@@ -1,0 +1,1 @@
+[![Build RPi TG Bot](https://github.com/chethanmb/raspberrypi-telegram-bot-go/actions/workflows/build.yml/badge.svg)](https://github.com/chethanmb/raspberrypi-telegram-bot-go/actions/workflows/build.yml)
